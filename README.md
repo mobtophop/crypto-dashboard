@@ -1,16 +1,7 @@
-# crypto_screen
+# Crypto Dashboard
 
-A new Flutter project.
+## <a href="https://drive.google.com/file/d/1ijya7xY-kFmNuaIlr07h9aT1DfIGhNNn/view?usp=sharing">APK link</a>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/mobtophop/crypto-dashboard/assets/145994644/ccf7aaf6-7bb1-43e9-bc25-33f6b9c96935" height="600">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
